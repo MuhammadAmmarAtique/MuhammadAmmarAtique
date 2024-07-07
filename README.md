@@ -1,7 +1,7 @@
 Hi! My name is MuhammadAmmarAtique 😊
 ========================================================================================================================================
 
-🌍  I am a Front-End React Engineer based in Haripur, Pakistan.
+🌍  I am a Front-End React Developer based in Haripur, Pakistan.
 <br/>
 
 ### Skills
