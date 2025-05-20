@@ -1,7 +1,7 @@
 Hi! My name is MuhammadAmmarAtique 😊
 ========================================================================================================================================
 
-🌍  I am a Last Year CS Student and MERN Stack Engineer based in Haripur, Pakistan.
+🌍  MERN Stack Engineer based in Haripur, Pakistan.
 <br/>
 
 ### Skills
