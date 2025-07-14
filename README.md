@@ -6,7 +6,7 @@ Hi! My name is MuhammadAmmarAtique 😊
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,styledcomponents,nodejs,express,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,tailwind,styledcomponents,nodejs,express,mongodb)](https://skillicons.dev)
 <br/>
 
 ### Socials
